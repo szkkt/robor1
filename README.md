@@ -1,2 +1,2 @@
-# robor1
+# robot1
 robot system1
